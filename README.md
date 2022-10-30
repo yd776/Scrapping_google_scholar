@@ -3,3 +3,6 @@ Building a web scraper that wiil scrape google scholar data and store it in a cs
 
 ## link for replptit
 https://replit.com/join/dupsaprumf-yods1
+
+##updates on 30-10-22
+added name of the proffessr and automated creating csvs also added name of journal
