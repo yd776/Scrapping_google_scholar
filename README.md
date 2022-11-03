@@ -9,3 +9,6 @@ added name of the proffessr and automated creating csvs also added name of journ
 
 ## updates on 02/11/22
 Automated the search function now search can be just done by uploading a csv file containig all the unique email ids
+
+## updates on 03/11/22
+Dowloads all the scholars details automatically and stores them in a csv file
