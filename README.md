@@ -12,3 +12,7 @@ Automated the search function now search can be just done by uploading a csv fil
 
 ## updates on 03/11/22
 Dowloads all the scholars details automatically and stores them in a csv file
+
+## updates on 07/11/22
+Download all the files to make a graph to show collaborations between professors
+
