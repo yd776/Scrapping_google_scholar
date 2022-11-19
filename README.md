@@ -16,3 +16,5 @@ Dowloads all the scholars details automatically and stores them in a csv file
 ## updates on 07/11/22
 Download all the files to make a graph to show collaborations between professors
 
+## updates on 19/11/22
+Working on website when will this end ughh
